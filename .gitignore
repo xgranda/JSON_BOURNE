@@ -1,0 +1,8 @@
+# Byte-compiled / optimized / DLL files
+__pycache__
+ ~$train.xlsx
+ipynb_checkpoints
+.ipynb_checkpoints
+*.csv
+*.xls
+*.xlsx
